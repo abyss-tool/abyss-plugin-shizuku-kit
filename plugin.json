@@ -1,0 +1,19 @@
+{
+  "id": "abyss-plugin-shizuku-kit",
+  "name": "Shizuku 工具箱",
+  "version": "0.1.0",
+  "minHost": 1,
+  "minApp": "0.1.0",
+  "category": "system",
+  "summary": "免 Root 提权指令面板：appops / settings / dumpsys 的可视化封装，全部系统工具的权限地基。",
+  "icon": "🛡",
+  "permissions": [],
+  "entry": "com.abyss.tools.plugin.shizukukit.ShizukuKitPlugin",
+  "repo": "Ultra-Guru/abyss-plugin-shizuku-kit",
+  "patchChannel": "https://raw.githubusercontent.com/Ultra-Guru/abyss-plugin-shizuku-kit/main/patches/index.json",
+  "roadmap": [
+    "v0.2 Shizuku 绑定与授权引导",
+    "v0.3 指令面板 UI",
+    "v0.4 dumpsys 图表化"
+  ]
+}
